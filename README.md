@@ -44,7 +44,7 @@
 ### Мой LeetCode
 
 <p>
-  🔗 <a href="https://leetcode.com/alejstsprt/" target="_blank">leetcode.com/alejstsprt</a>
+  🔗 <a href="https://leetcode.com/u/alexeyisaev2001/" target="_blank">leetcode.com/alejstsprt</a>
 </p>
 
 ---
