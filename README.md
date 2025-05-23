@@ -8,15 +8,15 @@
 
 ### 📍 Обо мне
 
-- 🧠 Углублённо изучаю backend: FastAPI, паттерны, безопасность, оптимизацию
-- 🛠 Создаю свою соцсеть с WebSocket, E2EE, защитой от атак
-- 🔍 Знаком с парсингом сайтов (BS4, Selenium, aiohttp)
-- 🎮 Ранее занимался разработкой игр в Unity (C#)
-- 📍 Живу в Санкт-Петербурге
+- Углублённо изучаю backend: FastAPI, паттерны, безопасность, оптимизацию
+- Создаю свою соцсеть с WebSocket, E2EE, защитой от атак
+- Знаком с парсингом сайтов (BS4, Selenium, aiohttp)
+- Ранее занимался разработкой игр в Unity (C#)
+- Живу в Санкт-Петербурге
 
 ---
 
-### 🧠 Языки программирования
+### Языки программирования
 
 <p>
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" />
@@ -27,7 +27,7 @@
 
 ---
 
-### ⚙️ Python-фреймворки и технологии
+### Python-фреймворки и технологии
 
 <p>
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" />
@@ -41,7 +41,7 @@
 
 ---
 
-### 📈 Мой LeetCode
+### Мой LeetCode
 
 <p>
   🔗 <a href="https://leetcode.com/alejstsprt/" target="_blank">leetcode.com/alejstsprt</a>
@@ -49,16 +49,15 @@
 
 ---
 
-### 📊 GitHub Статистика
+### GitHub Статистика
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=alejstsprt&show_icons=true&count_private=true&hide_border=true&theme=dark&title_color=00e5ff&icon_color=00e5ff&text_color=ffffff&bg_color=1c1917" alt="Stats" />
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=alejstsprt&bg_color=1c1917&color=ffffff&line=00e5ff&point=ffffff&area=true&hide_border=true&custom_title=GitHub%20Graph" alt="Activity Graph" />
 </p>
 
 ---
 
-### 📬 Связь
+### Связь
 
 <p align="left">
   <a href="https://github.com/alejstsprt" target="_blank">
