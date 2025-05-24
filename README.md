@@ -1,2 +1,2 @@
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/alexeyisaev2001?theme=light&font=baloo)
+![LeetCode Stats](https://leetcard.jacoblin.cool/alexeyisaev2001?theme=black&font=baloo)
