@@ -1,5 +1,4 @@
 Привет, я Python backend developer. Программирую с 12 лет. Сейчас мне 19.
-![LeetCode Stats](https://leetcard.jacoblin.cool/alexeyisaev2001?theme=dark&font=baloo)
 
 ## Навыки
 
@@ -10,3 +9,5 @@
 ![CSCC](https://img.shields.io/badge/-CSCC-808080)
 
 
+## Мой литкод
+![LeetCode Stats](https://leetcard.jacoblin.cool/alexeyisaev2001?theme=dark&font=baloo)
