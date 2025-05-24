@@ -20,6 +20,8 @@
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white)
 ![gRPC](https://img.shields.io/badge/-gRPC-43A047?logo=grpc&logoColor=white)
 ![WebSockets](https://img.shields.io/badge/-WebSockets-FFA500?logo=websocket&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
 
 ### 🛢️ Базы данных
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
@@ -42,24 +44,29 @@
 ![bcrypt](https://img.shields.io/badge/-bcrypt-003B57?logo=python&logoColor=white)
 ![OAuth2](https://img.shields.io/badge/-OAuth2-2867B2?logo=oauth&logoColor=white)
 
-### 🧪 Алгоритмы и структуры данных
-- Активный пользователь LeetCode
-- Опыт в решении задач на алгоритмы, структуры данных и оптимизацию
-- Использую Python для высокоэффективных решений
-
 ### 📦 Другие технологии
-- Celery, Kafka
-- WebRTC, E2EE
-- Pydantic, SQLAlchemy, Alembic
-- Git, Bash, Linux
+![Celery](https://img.shields.io/badge/-Celery-37814A?logo=celery&logoColor=white)
+![Kafka](https://img.shields.io/badge/-Kafka-231F20?logo=apachekafka&logoColor=white)
+![WebRTC](https://img.shields.io/badge/-WebRTC-333333?logo=webrtc&logoColor=white)
+![E2EE](https://img.shields.io/badge/-E2EE-4CAF50?logo=lock&logoColor=white)
+![Pydantic](https://img.shields.io/badge/-Pydantic-4B8BBE?logo=python&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-FF6F00?logo=python&logoColor=white)
+![Alembic](https://img.shields.io/badge/-Alembic-4B8BBE?logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white)
 
 ---
 
-## 🔗 Ссылки
+## 🧠 Алгоритмы и структуры данных
 
-- 🔗 [Мой LeetCode профиль](https://leetcode.com/) *(вставь свою ссылку сюда)*
-- 🐍 Люблю писать чистый, типизированный и эффективный код
-- 📫 Открыт к интересным проектам и коллаборациям
+- 🧩 Сильные знания алгоритмов, структур данных и оптимизаций
+- 🐍 Решаю задачи на Python с акцентом на производительность и читаемость
+- 📈 Регулярно практикуюсь на LeetCode
+
+### 🔗 LeetCode
+📄 [Мой профиль на LeetCode](https://leetcode.com/ТВОЙ_ЮЗЕРНЕЙМ) *(замени ссылку на свою)*  
+![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white)
 
 ---
 
