@@ -65,7 +65,7 @@
 - Регулярно практикуюсь на LeetCode
 
 ### LeetCode
-📄 [Мой профиль на LeetCode](https://leetcode.com/ТВОЙ_ЮЗЕРНЕЙМ) *(замени ссылку на свою)*  
+[Мой профиль на LeetCode](https://leetcode.com/u/alexeyisaev2001) 
 ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white)
 
 ---
