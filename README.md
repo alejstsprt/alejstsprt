@@ -1,70 +1,54 @@
-<h1 align="center">Привет</h1>
+# 👋 Привет! Меня зовут [Твоё Имя]
 
-<p align="center"><strong>Backend Python Developer</strong></p>
-<p align="center">Алексей, 19 лет. Программирую с 12 лет. Мечтаю стать топ-1 Python-разработчиком в России 🏆</p>
-<p align="center">Backend-инженер | Архитектура | Async | Безопасность | E2EE | Алгоритмы</p>
+Я начал программировать в 12 лет, создавая игры на Unity. Сегодня мне 19, и я сосредоточен на backend-разработке на Python. Моя цель — стать одним из сильнейших разработчиков в России, и я иду к ней через глубокое понимание технологий, систем и архитектур.
 
 ---
 
-### Обо мне
+## 🧠 Технологии, с которыми я работаю:
 
-- Углублённо изучаю backend: FastAPI, паттерны, безопасность, оптимизацию
-- Создаю свою соцсеть с WebSocket, E2EE, защитой от атак
-- Ранее занимался разработкой игр в Unity (C#)
-- Живу в Санкт-Петербурге
+### 🔥 Языки и основы
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
----
+### ⚙️ Backend и API
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
+![gRPC](https://img.shields.io/badge/-gRPC-0080FF?style=flat&logo=grpc&logoColor=white)
+![WebSocket](https://img.shields.io/badge/-WebSocket-333333?style=flat)
 
-### Языки программирования
+### 🗄️ Базы данных
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 
-<p>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" />
-</p>
-
----
-
-### Python-фреймворки и технологии
-
-<p>
-  <!-- Python Backend Frameworks -->
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" title="FastAPI" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" title="Django" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="36" title="Flask" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" width="36" title="SQLAlchemy" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pydantic/pydantic-original.svg" width="36" title="Pydantic" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aiohttp/aiohttp-original.svg" width="36" title="aiohttp" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/httpx/httpx-original.svg" width="36" title="httpx" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" width="36" title="PyTest" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="36" title="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="36" title="Redis" />
-</p>
-
+### 🔁 DevOps и тестирование
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![pytest](https://img.shields.io/badge/-Pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
 
 ---
 
-### Мой LeetCode
+## 🔧 Навыки и интересы
 
-<p>
-  🔗 <a href="https://leetcode.com/u/alexeyisaev2001/" target="_blank">leetcode.com/alejstsprt</a>
-</p>
-
----
-
-### GitHub Статистика
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=alejstsprt&show_icons=true&count_private=true&hide_border=true&theme=dark&title_color=00e5ff&icon_color=00e5ff&text_color=ffffff&bg_color=1c1917" alt="Stats" />
-</p>
+- Продвинутый Python: структуры данных, ООП, асинхронность, паттерны
+- Алгоритмы и оптимизация (Big-O, DP, кэширование)
+- Базы данных: SQL и NoSQL, ORM, индексация и оптимизация
+- Архитектура REST, GraphQL, WebSocket, gRPC
+- CI/CD, Docker, инфраструктура и безопасность
+- Юнит-тестирование и профилирование
+- Микросервисы, масштабирование, брокеры сообщений (RabbitMQ, Kafka)
+- Пишу профессиональный код, думаю о будущем проекта
 
 ---
 
-### Связь
+## 📈 Цель
+Стать сеньор Python backend-разработчиком к 22 годам и выйти на уровень топ-специалиста.
 
-<p align="left">
-  <a href="https://github.com/alejstsprt" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="36" />
-  </a>
-</p>
+---
+
+📬 Буду рад сотрудничеству и новым проектам!
