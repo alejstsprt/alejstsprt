@@ -1,4 +1,4 @@
-Привет, я Python backend developer. Программирую с 12 лет. Сейчас мне 19.
+Привет, я Python backend developer. 19 лет. программирую с 12.
 
 ## Навыки
 
