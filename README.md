@@ -25,6 +25,8 @@
 ![flake8](https://img.shields.io/badge/-flake8-306998?logo=python&logoColor=white)
 ![black](https://img.shields.io/badge/-black-000000?logo=python&logoColor=white)
 ![isort](https://img.shields.io/badge/-isort-F8DC75?logo=python&logoColor=black)
+![mypy](https://img.shields.io/badge/-mypy-2E3440?logo=python&logoColor=white)
+![libsodium](https://img.shields.io/badge/-libsodium-0B7285?logo=lock&logoColor=white)
 
 ### Другие технологии
 ![E2EE](https://img.shields.io/badge/-E2EE-4CAF50?logo=lock&logoColor=white)
