@@ -1,4 +1,3 @@
-
 ### Языки программирования
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
@@ -14,12 +13,18 @@
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white)
 
 ### DevOps и инфраструктура
--
+![pip](https://img.shields.io/badge/-pip-3775A9?logo=pypi&logoColor=white)
+![pipenv](https://img.shields.io/badge/-pipenv-306998?logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![Alembic](https://img.shields.io/badge/-Alembic-44A833?logo=python&logoColor=white)
 
 ### Безопасность и тестирование
 ![Pytest](https://img.shields.io/badge/-Pytest-0A9EDC?logo=pytest&logoColor=white)
 ![Unittest](https://img.shields.io/badge/-Unittest-007ACC?logo=python&logoColor=white)
 ![bcrypt](https://img.shields.io/badge/-bcrypt-003B57?logo=python&logoColor=white)
+![flake8](https://img.shields.io/badge/-flake8-306998?logo=python&logoColor=white)
+![black](https://img.shields.io/badge/-black-000000?logo=python&logoColor=white)
+![isort](https://img.shields.io/badge/-isort-F8DC75?logo=python&logoColor=black)
 
 ### Другие технологии
 ![E2EE](https://img.shields.io/badge/-E2EE-4CAF50?logo=lock&logoColor=white)
