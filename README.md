@@ -1,6 +1,3 @@
-Привет, я Python backend developer. 19 лет. программирую с 12.
-
-## Навыки
 
 ### Языки программирования
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
