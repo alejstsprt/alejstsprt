@@ -19,6 +19,7 @@
 ### DevOps и инфраструктура
 ![pip](https://img.shields.io/badge/-pip-3775A9?logo=pypi&logoColor=white)
 ![pipenv](https://img.shields.io/badge/-pipenv-306998?logo=python&logoColor=white)
+![Poetry](https://img.shields.io/badge/-Poetry-60A5FA?logo=python&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![Alembic](https://img.shields.io/badge/-Alembic-44A833?logo=python&logoColor=white)  
 ![pre-commit](https://img.shields.io/badge/-pre--commit-000000?logo=git&logoColor=white)
