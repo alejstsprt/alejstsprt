@@ -1,7 +1,7 @@
 ### Языки программирования
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
 ### Веб и API
@@ -33,7 +33,7 @@
 ![black](https://img.shields.io/badge/-black-000000?logo=python&logoColor=white)
 ![isort](https://img.shields.io/badge/-isort-F8DC75?logo=python&logoColor=black)
 ![mypy](https://img.shields.io/badge/-mypy-2E3440?logo=python&logoColor=white)
-![libsodium](https://img.shields.io/badge/-libsodium-0B7285?logo=security&logoColor=white)
+![libsodium](https://img.shields.io/badge/-libsodium-0B7285?logo=lock&logoColor=white)
 
 ### Другие технологии
 ![E2EE](https://img.shields.io/badge/-E2EE-4CAF50?logo=lock&logoColor=white)
@@ -42,4 +42,4 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 
 ## Мой литкод
-![LeetCode Stats](https://leetcard.jacoblin.cool/alexeyisaev2001?theme=dark&font=baloo)
+![LeetCode Stats](https://leetcard.jacoblin.cool/alexeyisaev2001?theme=dark&font=baloo) 
